@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meine Präsentation</title>
+  <title>advent</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -34,7 +34,7 @@
 <body>
   <h1>Präsentation</h1>
   <div class="pdf-container">
-    assets/deine-datei.pdf</iframe>
+    assets/advent.pdf</iframe>
   </div>
 </body>
 </html>
