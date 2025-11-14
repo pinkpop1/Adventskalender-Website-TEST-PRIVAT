@@ -1,41 +1,16 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adventskalender Präsentation</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background: #f9f9f9;
-        }
-        h1 {
-            text-align: center;
-            margin: 20px;
-            color: #333;
-        }
-        .pdf-container {
-            position: relative;
-            width: 100%;
-            padding-top: 56.25%; /* 16:9 Verhältnis */
-            overflow: hidden;
-        }
-        .pdf-container iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            border: none;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Meine Präsentation</title>
+  <style>
+    iframe {
+      width: 100%;
+      height: 800px;
+      border: none;
+    }
+  </style>
 </head>
 <body>
-    <h1>Adventskalender Präsentation</h1>
-    <div class="pdf-container">
-        https://drive.google.com/file/d/1NnaIQMCE5DTC5wwNZqG9ckoxjzgX6C_L/preview
-    </div>
-</body>
-</html>
+  <h1>Präsentation</h1>
+  <iframedeine-datei.pdf</iframe>
